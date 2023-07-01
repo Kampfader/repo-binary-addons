@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/xbmc/inputstream.adaptive Omega
+inputstream.adaptive https://github.com/xbmc/inputstream.adaptive 454eaf0a10da33f7bec22f32fd62c8908721093e
